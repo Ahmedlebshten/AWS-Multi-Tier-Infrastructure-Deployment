@@ -9,6 +9,11 @@ This project demonstrates setting up a complete AWS infrastructure including:
 - **Shell scripting** for automation  
 
 ## Tools Used
-- AWS EC2, S3, IAM, Load Balancer, VPC Peering  
+- AWS
+- EC2
+- S3
+- IAM
+- Load Balancer
+- VPC Peering  
 - Bash scripting  
 - Amazon Linux 2
