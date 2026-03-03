@@ -6,7 +6,7 @@ ____
 
 ## 📌 Architecture Overview
 
-####The infrastructure includes:
+#### The infrastructure includes:
 - Two separate VPCs
 - Public and Private Subnets
 - EC2 instances distributed across multiple AZs
