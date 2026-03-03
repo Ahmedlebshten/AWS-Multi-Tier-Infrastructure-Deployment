@@ -1,4 +1,4 @@
-# AWS-Multi-Tier-Infrastructure-Deployment
+## AWS-Multi-Tier-Infrastructure-Deployment
 
 This project demonstrates setting up a complete AWS infrastructure including:
 - **Two VPCs** with public and private subnets  
